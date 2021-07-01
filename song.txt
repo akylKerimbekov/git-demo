@@ -10,3 +10,7 @@ shield by shield
 new feature
 
 another feature
+
+hotfix
+
+another hotfix
