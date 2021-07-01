@@ -12,3 +12,5 @@ new feature
 another feature
 
 hotfix
+
+another hotfix
